@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Şahin Akkaya's Personal Page
+title: Şahin Akkaya's Blog
 email: sahin@sahinakkaya.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Şahin Akkaya's personal blog - a perfectionist who likes to tinker everything
   until it is just right. Get ready to find some sweet tips that will boost your
   productivity and make you fall in love with your computer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sahinakkaya.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.sahinakkaya.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sahinakkayadev
 github_username:  sahinakkaya
 search: true
@@ -78,7 +78,7 @@ author:
       url: "https://resume.sahinakkaya.dev"
 
 
-masthead_title: "/home/sahin/"
+masthead_title: "/home/sahin/blog"
 
 keep_files: [.git]
 # Build settings
