@@ -49,11 +49,11 @@ One of the features I'm most proud of is my automated deployment system. Here's 
 This means I can write code or create a blog post, push to GitHub, and watch the updates go live within minutes—no manual deployment steps required.
 
 The projects that benefit from this automated deployment include:
-- [sahinakkaya.dev](https://sahinakkaya.dev) - My personal website
-- [blog.sahinakkaya.dev](https://blog.sahinakkaya.dev) - The blog you are currently reading
-- [progress.sahinakkaya.dev](https://progress.sahinakkaya.dev) - A personal habit tracker that I build for myself.
-- [chesslab.sahinakkaya.dev](https://chesslab.sahinakkaya.dev) - A chess endgame and opening trainer that I build for myself. 
-- [blackjack.sahinakkaya.dev](https://blackjack.sahinakkaya.dev) - A blackjack game implementation
+- <img src="https://sahinakkaya.dev/favicon.svg" width="20" height="20"> [sahinakkaya.dev](https://sahinakkaya.dev) - My personal website
+- <img src="https://blog.sahinakkaya.dev/assets/images/logo-96x96.png" width="20" height="20"> [blog.sahinakkaya.dev](https://blog.sahinakkaya.dev) - The blog you are currently reading
+- <img src="https://progress.sahinakkaya.dev/favicon.png" width="20" height="20"> [progress.sahinakkaya.dev](https://progress.sahinakkaya.dev) - A personal habit tracker that I build for myself.
+- <img src="https://chesslab.sahinakkaya.dev/logo.png" width="20" height="20"> [chesslab.sahinakkaya.dev](https://chesslab.sahinakkaya.dev) - A chess endgame and opening trainer that I build for myself.
+- <img src="https://blackjack.sahinakkaya.dev/logo.svg" width="20" height="20"> [blackjack.sahinakkaya.dev](https://blackjack.sahinakkaya.dev) - A blackjack game implementation
 
 Feel free to try all the applications I've shared above. I use them daily but not from these links, they are just demo versions.
 
