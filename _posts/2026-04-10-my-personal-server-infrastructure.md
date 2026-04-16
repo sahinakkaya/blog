@@ -1,6 +1,7 @@
 ---
 title: "My Personal Server Infrastructure: A Project I'm Proud Of"
 date: 2026-04-10 14:30:00 +0300
+last_modified_at: 2026-04-16
 tags: self-hosting infrastructure server homelab docker automation
 classes: wide
 excerpt: "How I built a comprehensive personal server infrastructure with automated deployments, private networking, and self-hosted applications that I use daily."
