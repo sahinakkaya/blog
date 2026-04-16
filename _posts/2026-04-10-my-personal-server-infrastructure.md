@@ -31,7 +31,7 @@ Here's how it works:
 - Install Tailscale client on each device
 - Connect all devices to my Headscale server
 - Every device gets a private IP and can reach every other device
-- My VPS acts as an exit node, giving me a free personal VPN
+- *BONUS*: My VPS also runs a client connected to itself acting as an exit node, giving me a free personal VPN
 
 No more port forwarding, no more remembering IP addresses, no more VPN subscriptions. Just seamless connectivity everywhere.
 
