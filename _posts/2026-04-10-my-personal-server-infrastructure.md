@@ -47,7 +47,7 @@ One of the features I'm most proud of is my automated deployment system. Here's 
 5. **Server pulls** the new image and deploys using Docker Compose
 6. **New version goes live** automatically
 
-This means I can write code or create a blog post, push to GitHub, and watch the updates go live within minutes—no manual deployment steps required.
+This means I can write code or create a blog post, push to GitHub, and watch the updates go live within minutes, no manual deployment steps required.
 
 The projects that benefit from this automated deployment include:
 - <img src="https://sahinakkaya.dev/favicon.svg" width="20" height="20"> [sahinakkaya.dev](https://sahinakkaya.dev) - My personal website
