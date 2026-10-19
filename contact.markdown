@@ -10,4 +10,4 @@ You can contact me via:
 - Matrix: <a href="https://matrix.to/#/@sahinakkaya:matrix.org">sahinakkaya:matrix.org</a>  
 - E-mail: <a href="mailto:sahin@sahinakkaya.dev">sahin@sahinakkaya.dev</a>
 
-And [here](/assets/docs/public.pgp) is my public GPG key if you need.
+And [here](https://sahinakkaya.dev/public.gpg) is my public GPG key if you need.
